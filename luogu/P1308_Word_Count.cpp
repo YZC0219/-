@@ -1,3 +1,6 @@
+// 题号：P1308
+// 题目：统计单词数
+
 #include <iostream>
 #include <string>
 #include <cctype>
