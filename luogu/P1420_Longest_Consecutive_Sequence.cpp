@@ -1,3 +1,6 @@
+// 题号：P1420
+// 题目：最长连号
+
 #include <iostream>
 using namespace std;
 
