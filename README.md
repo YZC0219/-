@@ -11,5 +11,6 @@ C++17 solutions for completed Luogu practice problems while preparing for the CC
 | P1085 Unhappy Jinjin | `P1085_Unhappy_Jinjin.cpp` | Loops and maximum value |
 | P1420 Longest Consecutive Sequence | `P1420_Longest_Consecutive_Sequence.cpp` | Arrays and consecutive runs |
 | P1308 Word Count | `P1308_Word_Count.cpp` | Strings and matching |
+| P5719 Category Average | `P5719_Category_Average.cpp` | Loops, classification, averages |
 
 All source files use standard input/output and can be submitted directly on Luogu.
