@@ -1,3 +1,6 @@
+// 题号：P5719
+// 题目：分类平均
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
