@@ -1,3 +1,6 @@
+// 题号：P1421
+// 题目：小玉买文具
+
 #include <iostream>
 using namespace std;
 
