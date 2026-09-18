@@ -1,3 +1,6 @@
+// 题号：P1046
+// 题目：陶陶摘苹果
+
 #include <iostream>
 using namespace std;
 
